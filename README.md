@@ -1,6 +1,6 @@
 # AsianReligionsClassification
 
-A experiment project for Pattern Recognition which is a course released by Yong Wang from Chinese Academy of Science.
+An experiment project for Pattern Recognition which is a course released by Yong Wang from Chinese Academy of Science.
 Considering not very much time spent on this task, it may be naive and not bug-free.
 If you find any problems with it, feel free to send an email to buptmsg@gmail.com.
 
